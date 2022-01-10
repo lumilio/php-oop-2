@@ -9,5 +9,9 @@ class Product{
         $this->price = $price;
         $this->description = $description;
     }
+    public function applyBonus($bonus)
+    {
+        return $this->price - $bonus;
+    }
 }
 ?>
