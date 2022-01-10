@@ -1,4 +1,4 @@
 <?php
-class product_prime{
+class Product_Prime{
 }
 ?>

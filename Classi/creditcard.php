@@ -1,5 +1,5 @@
 <?php
-class creditcard{
+class Creditcard{
     protected $code;
     protected $CVV;
     protected $date;

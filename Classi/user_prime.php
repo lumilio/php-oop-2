@@ -1,4 +1,4 @@
 <?php
-class user_prime extends user{
+class User_Prime extends User{
 }
 ?>
